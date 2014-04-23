@@ -174,3 +174,7 @@
 	text-align: center;
 	margin-left: 5px;
 }
+
+.widget-admin > .button {
+	z-index: 9999999;
+}
